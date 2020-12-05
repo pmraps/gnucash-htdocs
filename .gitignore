@@ -2,6 +2,7 @@ docs
 gnucash-htdocs.pot
 POTFILES
 messages.mo
+*.mo
 *~
 /.cproject
 /.project
